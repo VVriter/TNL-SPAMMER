@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: tnlspam
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2022-11-16T22:55:04+0200
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
